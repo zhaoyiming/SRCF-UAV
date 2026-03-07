@@ -19,3 +19,6 @@ If you use some resource from this data suite, please cite it as
 ## Download
 
 The files below are hosted on OneDrive. If you are having a problem downloading from OneDrive, do raise an issue.
+
+## License
+The dataset is released under the CC BY 4.0 License.
