@@ -1,4 +1,4 @@
-This site presents the dataset associated with the paper **“SRCF-UAV: Sparse Radar-Camera Fusion for 3D UAV Detection”**, collected from our research platform and featuring the following sensors:
+This site presents the dataset associated with the ICRA 2026 paper **“SRCF-UAV: Sparse Radar-Camera Fusion for 3D UAV Detection”**, collected from our research platform and featuring the following sensors:
 
 - One mmWave Radar
 - One time-synchronized camera
