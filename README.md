@@ -16,6 +16,10 @@ If you use some resource from this data suite, please cite it as
 }
 ```
 
+## Code
+
+The training and evaluation code (StreamRC / SQRCF-UAV, built on mmdetection3d) is in [`code/`](code/). See [`code/README.md`](code/README.md) for environment setup, data layout, and train/eval commands. Model weights are not included.
+
 ## Download
 
 The files below are hosted on OneDrive. If you are having a problem downloading from OneDrive, do raise an issue.

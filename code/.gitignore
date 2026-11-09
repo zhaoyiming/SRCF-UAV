@@ -1,0 +1,24 @@
+# weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+# data, pretrained weights and run outputs (not part of the repo)
+data
+pretrain
+outputs/
+runs/
+logs/
+work_dirs/
+debug/
+submission/
+*.log
+slurm-*.out
+.smoke/
+# build artifacts
+__pycache__/
+*.pyc
+*.so
+build/
+*.egg-info/
+models/csrc/build/
